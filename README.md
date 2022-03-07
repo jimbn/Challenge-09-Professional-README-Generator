@@ -12,13 +12,17 @@ In the terminal the user must input <node index.js>. Upon input, user will be pr
 
 
 ## Built With
+  
 * JS
 * Node.js
 
 ## Website
+  
 https://github.com/jimbn/Challenge-09-Professional-README-Generator
 
 ## Video
+
+https://user-images.githubusercontent.com/95522881/156981359-38e3b5e9-7d7c-463d-a7e9-b43fa080b7b9.mp4
 
 
 ## Contribution
