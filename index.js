@@ -1,18 +1,15 @@
-// TODO: Include packages needed for this application
-// const { rejects } = require('assert');
 const fs = require('fs');
 const inquirer = require('inquirer');
-// const { resolve } = require('path');
 const generateMarkdown = require('./utils/generateMarkdown');
 
 
-// TODO: Create an array of questions for user input
+// array of questions for user input
 const questions = [
     // default <type> === 'input'
   {
     name: 'title',
     message: 'Provide the title of the project. (Required)',
-    // validate to ensure user makes an input
+    // <validate> ensure user makes an input
     validate: input => {
         if (input) {
             return true;
